@@ -1,0 +1,1 @@
+Saved `icon_1024.png`. The native generator returned 1254×1254 despite the size request. I preserved it unchanged to honor your no-resize rule.
